@@ -5,4 +5,4 @@
 [submodule "synapser"]
 	path = synapser
 	url = https://github.com/Sage-Bionetworks/synapser
-	branch = *release
+	branch = 2.1.5
