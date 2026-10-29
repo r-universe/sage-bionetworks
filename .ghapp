@@ -1,0 +1,10 @@
+{
+  "id": 176665912,
+  "created_at": "2026-10-29T19:50:09.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["synapser.r-universe.dev"]
+}
