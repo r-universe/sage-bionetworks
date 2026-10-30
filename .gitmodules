@@ -1,4 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/sage-bionetworks/sage-bionetworks.r-universe.dev
 	branch = HEAD
+[submodule "synapser"]
+	path = synapser
+	url = https://github.com/Sage-Bionetworks/synapser
+	branch = *release
