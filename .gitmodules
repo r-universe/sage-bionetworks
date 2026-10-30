@@ -5,4 +5,4 @@
 [submodule "synapser"]
 	path = synapser
 	url = https://github.com/Sage-Bionetworks/synapser
-	branch = 2.1.5
+	branch = SYNR-1649-upgrade-pythonclient-4-14
